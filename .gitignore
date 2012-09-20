@@ -3,3 +3,7 @@ node_modules
 dump.rdb
 npm-debug.log
 *.tgz
+*.swp
+*.swo
+*~
+!.gitignore
